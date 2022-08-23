@@ -23,7 +23,7 @@ The purpose is to develop an android application, which will eliminate the probl
 4.	Android Studio 
 
 
-#Snap Shots
+# Snap Shots
 ![image](https://user-images.githubusercontent.com/53873995/186126992-b7ed0dda-ddc1-47fb-9f12-d6c04402db9d.png)
 ![image](https://user-images.githubusercontent.com/53873995/186127013-0b6c0781-5c6e-4665-8f41-98676e63ef4b.png)
 ![image](https://user-images.githubusercontent.com/53873995/186127047-f4065926-d287-4cb8-a660-7a073db3bc1f.png)
